@@ -28,10 +28,9 @@ const portfolioData = [
     id: 3,
     title: "BurgerKill App",
     description:
-      "BurgerKill App is a UI design project for mobile apps. The design carried is a dark theme with a combination of one other color, so it still seems minimalist.",
+      "BurgerKill App is an android app for ordering food and drinks. Which there are Login, Signup, and Order features. However, the implementation is still in the UI implementation stage only.",
     pict: portfolio3,
-    source:
-      "https://www.figma.com/file/5BEtNDeQE6MgkqFSyZs1sy/BurgerKill-App?type=design&node-id=3%3A2&mode=design&t=qsu3R4HdfrI4MJgj-1",
+    source: "https://github.com/ridwanrahmn/BurgerKillApp",
     demo: "",
   },
 ];
